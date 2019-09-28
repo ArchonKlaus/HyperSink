@@ -1,2 +1,6 @@
 # HyperSink
-A MC:BE minigame - kill all enemies!
+A MC:BE Minigame
+
+##How it works?
+
+
